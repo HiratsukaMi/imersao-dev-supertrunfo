@@ -1,3 +1,15 @@
+var cartas = [
+  {
+    nome: "",
+    imagem: "",
+    atributos: {
+      ataque: 0,
+      defesa: 0,
+      magia: 0, 
+    }
+  }
+]
+
 var cartaPaulo = {
     nome: "Shiryu de dragão",
     imagem:
